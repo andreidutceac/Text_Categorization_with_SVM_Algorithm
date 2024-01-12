@@ -34,9 +34,14 @@ Application Interface: Develop a user interface to input new text and display th
 
 Let's consider two new texts for prediction in the context of the categories we discussed (Sports, Politics, Technology, and Health). Here are the texts:
 
-Text for Prediction 1: "Groundbreaking software revolutionizes the way we interact with our smart devices."
+Text for Prediction 1:
+- "Groundbreaking software revolutionizes the way we interact with our smart devices."
 
 This text appears to be related to Technology because it mentions "groundbreaking software" and "smart devices," which are typically topics in the technology sector.
-Text for Prediction 2: "World Health Organization releases new guidelines for managing pandemic-related stress."
+
+Text for Prediction 2: 
+- "World Health Organization releases new guidelines for managing pandemic-related stress."
 
 This text is likely to be categorized under Health, as it refers to the "World Health Organization" and "managing pandemic-related stress," which are health-related topics.
+
+![Capture](https://github.com/andreidutceac/Text_Categorization_with_SVM_Algorithm/assets/117718437/29b069cc-408f-41f6-a8fa-57a35f910df4)
